@@ -2,6 +2,8 @@
 """Writes the one-line horror entry to /output/entry.txt.
 
 Single sentence, 97 characters, within the 200-character gate.
+The line frightens by withholding: locked doors clicking open one by
+one, in order -- no monster named, so the dread comes from the detail.
 """
 
 import os
